@@ -40,6 +40,6 @@ Interactive tool that analyzes mathematical functions in the browser, displaying
 ## 📊 Estatísticas / Statistics
 
 <div align="center">
-    <img height="150" src="https://github-readme-stats.vercel.app/api?username=C4Adriano&show_icons=true&theme=dark&locale=pt-br" />
-    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4Adriano&layout=compact&theme=dark&locale=pt-br" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api?username=C4Adriano&show_icons=true&theme=dark&locale=en" />
+    <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=C4Adriano&layout=compact&theme=dark&locale=en" />
 </div>
